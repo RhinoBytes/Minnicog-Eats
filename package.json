@@ -1,0 +1,23 @@
+{
+  "name": "minnicog-eats",
+  "version": "1.0.0",
+  "description": "Minnicog Eats: A recipe sharing platform where food enthusiasts can connect, discover, and share their favorite culinary creations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhinokick/Minnicog-Eats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhinokick/Minnicog-Eats/issues"
+  },
+  "homepage": "https://github.com/Rhinokick/Minnicog-Eats#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
